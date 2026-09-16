@@ -12,11 +12,11 @@ Determine whether residues **18–28** can be handed to medicinal chemistry as a
 The comparison region is residues **94–312**.
 
 ## Decision rule
-Compare `B_iso_or_equiv` for residues 18–28 with the corresponding values for residues 94–312. Inspect `predicted_aligned_error` for placement of residues 18–28 relative to the protein, using the corresponding region-to-protein values in the JSON.
+For this AlphaFold mmCIF, read `B_iso_or_equiv` as per-residue pLDDT. Compare the pLDDT values for residues 18–28 with the corresponding values for residues 94–312. In the JSON, `predicted_aligned_error` is PAE; inspect the relevant PAE values for placement of residues 18–28 relative to the protein, using the corresponding region-to-protein values. pLDDT alone does not establish whether residues 18–28 are positioned consistently relative to the rest of p53.
 
 A yes requires both:
-1. `B_iso_or_equiv` across 18–28 sits in the same strong range as the local values for 94–312; and
-2. `predicted_aligned_error` supports consistent positioning of 18–28 relative to the rest of the protein.
+1. The per-residue pLDDT read from `B_iso_or_equiv` across 18–28 sits in the same strong range as the local pLDDT values for 94–312; and
+2. PAE, read from `predicted_aligned_error`, supports consistent positioning of 18–28 relative to the rest of the protein.
 
 If residues 18–28 are materially weaker on either comparison, there is no independent handoff of 18–28. Instead, assess residues 94–312 residue by residue; do not treat the entire interval as automatically suitable. No arbitrary numerical cutoff is imposed.
 
