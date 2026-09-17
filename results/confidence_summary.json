@@ -1,0 +1,209 @@
+{
+  "verification": {
+    "fasta_length": 393,
+    "mmcif_residues": 393,
+    "pae_shape": [
+      393,
+      393
+    ],
+    "pae_indexing": "0-based array indices correspond to residue numbers 1-393",
+    "plddt_source": "atom_site.B_iso_or_equiv, one constant value per residue; read as pLDDT"
+  },
+  "target_18_28": {
+    "residues": [
+      {
+        "residue": 18,
+        "amino_acid_3": "THR",
+        "amino_acid_1": "T",
+        "plddt": 68.06
+      },
+      {
+        "residue": 19,
+        "amino_acid_3": "PHE",
+        "amino_acid_1": "F",
+        "plddt": 61.56
+      },
+      {
+        "residue": 20,
+        "amino_acid_3": "SER",
+        "amino_acid_1": "S",
+        "plddt": 71.25
+      },
+      {
+        "residue": 21,
+        "amino_acid_3": "ASP",
+        "amino_acid_1": "D",
+        "plddt": 72.06
+      },
+      {
+        "residue": 22,
+        "amino_acid_3": "LEU",
+        "amino_acid_1": "L",
+        "plddt": 73.62
+      },
+      {
+        "residue": 23,
+        "amino_acid_3": "TRP",
+        "amino_acid_1": "W",
+        "plddt": 73.44
+      },
+      {
+        "residue": 24,
+        "amino_acid_3": "LYS",
+        "amino_acid_1": "K",
+        "plddt": 75.5
+      },
+      {
+        "residue": 25,
+        "amino_acid_3": "LEU",
+        "amino_acid_1": "L",
+        "plddt": 77.12
+      },
+      {
+        "residue": 26,
+        "amino_acid_3": "LEU",
+        "amino_acid_1": "L",
+        "plddt": 64.25
+      },
+      {
+        "residue": 27,
+        "amino_acid_3": "PRO",
+        "amino_acid_1": "P",
+        "plddt": 63.16
+      },
+      {
+        "residue": 28,
+        "amino_acid_3": "GLU",
+        "amino_acid_1": "E",
+        "plddt": 57.66
+      }
+    ],
+    "plddt": {
+      "n": 11,
+      "mean": 68.88,
+      "median": 71.25,
+      "min": 57.66,
+      "max": 77.12,
+      "q01": 58.05,
+      "q05": 59.61,
+      "q25": 63.705,
+      "q75": 73.53,
+      "q95": 76.31,
+      "q99": 76.958
+    }
+  },
+  "comparison_94_312": {
+    "plddt": {
+      "n": 219,
+      "mean": 90.8441095890411,
+      "median": 96.62,
+      "min": 39.03,
+      "max": 98.69,
+      "q01": 41.5042,
+      "q05": 46.940000000000005,
+      "q25": 93.72,
+      "q75": 97.845,
+      "q95": 98.56,
+      "q99": 98.69
+    }
+  },
+  "plddt_rest_comparison": {
+    "target_18_28": {
+      "n": 11,
+      "mean": 68.88,
+      "median": 71.25,
+      "min": 57.66,
+      "max": 77.12,
+      "q01": 58.05,
+      "q05": 59.61,
+      "q25": 63.705,
+      "q75": 73.53,
+      "q95": 76.31,
+      "q99": 76.958
+    },
+    "rest_excluding_18_28": {
+      "n": 382,
+      "mean": 75.22780104712041,
+      "median": 92.815,
+      "min": 32.78,
+      "max": 98.69,
+      "q01": 35.7975,
+      "q05": 38.008,
+      "q25": 47.199999999999996,
+      "q75": 97.045,
+      "q95": 98.38,
+      "q99": 98.6333
+    }
+  },
+  "pae_18_28_to_rest": {
+    "18_28_to_rest": {
+      "n": 4202,
+      "mean": 28.851023322227512,
+      "median": 30.0,
+      "min": 1.0,
+      "max": 31.0,
+      "q01": 9.0,
+      "q05": 20.0,
+      "q25": 29.0,
+      "q75": 31.0,
+      "q95": 31.0,
+      "q99": 31.0
+    },
+    "rest_to_18_28": {
+      "n": 4202,
+      "mean": 27.651356496906235,
+      "median": 29.0,
+      "min": 2.0,
+      "max": 31.0,
+      "q01": 10.0,
+      "q05": 21.0,
+      "q25": 28.0,
+      "q75": 29.0,
+      "q95": 30.0,
+      "q99": 31.0
+    }
+  },
+  "pae_18_28_to_94_312": {
+    "18_28_to_94_312": {
+      "n": 2409,
+      "mean": 30.702781237027814,
+      "median": 31.0,
+      "min": 27.0,
+      "max": 31.0,
+      "q01": 29.0,
+      "q05": 30.0,
+      "q25": 30.0,
+      "q75": 31.0,
+      "q95": 31.0,
+      "q99": 31.0
+    },
+    "94_312_to_18_28": {
+      "n": 2409,
+      "mean": 28.65255292652553,
+      "median": 29.0,
+      "min": 24.0,
+      "max": 31.0,
+      "q01": 26.0,
+      "q05": 27.0,
+      "q25": 28.0,
+      "q75": 29.0,
+      "q95": 30.0,
+      "q99": 31.0
+    }
+  },
+  "pae_core_internal": {
+    "94_312_to_94_312": {
+      "n": 47961,
+      "mean": 7.026000291903839,
+      "median": 3.0,
+      "min": 0.0,
+      "max": 31.0,
+      "q01": 1.0,
+      "q05": 1.0,
+      "q25": 2.0,
+      "q75": 6.0,
+      "q95": 29.0,
+      "q99": 31.0
+    }
+  }
+}
