@@ -1,0 +1,485 @@
+{
+  "alternative_region_descriptive_segments": [
+    {
+      "start": 94,
+      "end": 104,
+      "label": "mixed_or_intermediate",
+      "length": 11,
+      "alphafold_plddt_mean": 93.07363636363635,
+      "course_plddt_mean": 76.88090909090907
+    },
+    {
+      "start": 105,
+      "end": 109,
+      "label": "both_descriptively_strong",
+      "length": 5,
+      "alphafold_plddt_mean": 97.374,
+      "course_plddt_mean": 93.572
+    },
+    {
+      "start": 110,
+      "end": 110,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 97.81,
+      "course_plddt_mean": 87.83
+    },
+    {
+      "start": 111,
+      "end": 113,
+      "label": "both_descriptively_strong",
+      "length": 3,
+      "alphafold_plddt_mean": 97.52333333333333,
+      "course_plddt_mean": 92.78666666666668
+    },
+    {
+      "start": 114,
+      "end": 122,
+      "label": "mixed_or_intermediate",
+      "length": 9,
+      "alphafold_plddt_mean": 91.99444444444445,
+      "course_plddt_mean": 70.35888888888888
+    },
+    {
+      "start": 123,
+      "end": 126,
+      "label": "both_descriptively_strong",
+      "length": 4,
+      "alphafold_plddt_mean": 97.765,
+      "course_plddt_mean": 91.55499999999999
+    },
+    {
+      "start": 127,
+      "end": 129,
+      "label": "mixed_or_intermediate",
+      "length": 3,
+      "alphafold_plddt_mean": 96.10666666666667,
+      "course_plddt_mean": 87.16666666666667
+    },
+    {
+      "start": 130,
+      "end": 130,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 96.25,
+      "course_plddt_mean": 91.09
+    },
+    {
+      "start": 131,
+      "end": 131,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 97.44,
+      "course_plddt_mean": 88.8
+    },
+    {
+      "start": 132,
+      "end": 145,
+      "label": "both_descriptively_strong",
+      "length": 14,
+      "alphafold_plddt_mean": 97.71785714285713,
+      "course_plddt_mean": 93.72571428571429
+    },
+    {
+      "start": 146,
+      "end": 146,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 98.12,
+      "course_plddt_mean": 82.05
+    },
+    {
+      "start": 147,
+      "end": 155,
+      "label": "both_descriptively_strong",
+      "length": 9,
+      "alphafold_plddt_mean": 97.04444444444444,
+      "course_plddt_mean": 94.78
+    },
+    {
+      "start": 156,
+      "end": 156,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 98.25,
+      "course_plddt_mean": 83.63
+    },
+    {
+      "start": 157,
+      "end": 165,
+      "label": "both_descriptively_strong",
+      "length": 9,
+      "alphafold_plddt_mean": 97.94999999999999,
+      "course_plddt_mean": 93.52444444444444
+    },
+    {
+      "start": 166,
+      "end": 167,
+      "label": "mixed_or_intermediate",
+      "length": 2,
+      "alphafold_plddt_mean": 94.47,
+      "course_plddt_mean": 85.32
+    },
+    {
+      "start": 168,
+      "end": 168,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 94.69,
+      "course_plddt_mean": 92.05
+    },
+    {
+      "start": 169,
+      "end": 170,
+      "label": "mixed_or_intermediate",
+      "length": 2,
+      "alphafold_plddt_mean": 94.97,
+      "course_plddt_mean": 85.15
+    },
+    {
+      "start": 171,
+      "end": 173,
+      "label": "both_descriptively_strong",
+      "length": 3,
+      "alphafold_plddt_mean": 96.37333333333333,
+      "course_plddt_mean": 93.0
+    },
+    {
+      "start": 174,
+      "end": 174,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 95.12,
+      "course_plddt_mean": 84.92
+    },
+    {
+      "start": 175,
+      "end": 177,
+      "label": "both_descriptively_strong",
+      "length": 3,
+      "alphafold_plddt_mean": 96.10333333333334,
+      "course_plddt_mean": 92.12666666666667
+    },
+    {
+      "start": 178,
+      "end": 178,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 94.88,
+      "course_plddt_mean": 84.15
+    },
+    {
+      "start": 179,
+      "end": 179,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 94.25,
+      "course_plddt_mean": 92.6
+    },
+    {
+      "start": 180,
+      "end": 182,
+      "label": "mixed_or_intermediate",
+      "length": 3,
+      "alphafold_plddt_mean": 89.66333333333334,
+      "course_plddt_mean": 84.79333333333334
+    },
+    {
+      "start": 183,
+      "end": 183,
+      "label": "both_descriptively_weak",
+      "length": 1,
+      "alphafold_plddt_mean": 68.81,
+      "course_plddt_mean": 60.75
+    },
+    {
+      "start": 184,
+      "end": 184,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 70.25,
+      "course_plddt_mean": 72.2
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "label": "both_descriptively_weak",
+      "length": 1,
+      "alphafold_plddt_mean": 68.44,
+      "course_plddt_mean": 69.4
+    },
+    {
+      "start": 186,
+      "end": 190,
+      "label": "mixed_or_intermediate",
+      "length": 5,
+      "alphafold_plddt_mean": 82.438,
+      "course_plddt_mean": 81.702
+    },
+    {
+      "start": 191,
+      "end": 191,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 93.62,
+      "course_plddt_mean": 90.24
+    },
+    {
+      "start": 192,
+      "end": 192,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 93.69,
+      "course_plddt_mean": 87.72
+    },
+    {
+      "start": 193,
+      "end": 195,
+      "label": "both_descriptively_strong",
+      "length": 3,
+      "alphafold_plddt_mean": 97.04,
+      "course_plddt_mean": 94.87333333333333
+    },
+    {
+      "start": 196,
+      "end": 196,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 96.69,
+      "course_plddt_mean": 83.14
+    },
+    {
+      "start": 197,
+      "end": 197,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 96.75,
+      "course_plddt_mean": 94.41
+    },
+    {
+      "start": 198,
+      "end": 198,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 93.0,
+      "course_plddt_mean": 87.96
+    },
+    {
+      "start": 199,
+      "end": 199,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 90.0,
+      "course_plddt_mean": 91.4
+    },
+    {
+      "start": 200,
+      "end": 202,
+      "label": "mixed_or_intermediate",
+      "length": 3,
+      "alphafold_plddt_mean": 92.23,
+      "course_plddt_mean": 88.59333333333332
+    },
+    {
+      "start": 203,
+      "end": 206,
+      "label": "both_descriptively_strong",
+      "length": 4,
+      "alphafold_plddt_mean": 96.235,
+      "course_plddt_mean": 90.91250000000001
+    },
+    {
+      "start": 207,
+      "end": 213,
+      "label": "mixed_or_intermediate",
+      "length": 7,
+      "alphafold_plddt_mean": 93.74142857142856,
+      "course_plddt_mean": 84.71285714285715
+    },
+    {
+      "start": 214,
+      "end": 215,
+      "label": "both_descriptively_strong",
+      "length": 2,
+      "alphafold_plddt_mean": 97.535,
+      "course_plddt_mean": 92.345
+    },
+    {
+      "start": 216,
+      "end": 216,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 97.81,
+      "course_plddt_mean": 89.9
+    },
+    {
+      "start": 217,
+      "end": 227,
+      "label": "both_descriptively_strong",
+      "length": 11,
+      "alphafold_plddt_mean": 96.30818181818181,
+      "course_plddt_mean": 94.10999999999999
+    },
+    {
+      "start": 228,
+      "end": 228,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 93.94,
+      "course_plddt_mean": 89.86
+    },
+    {
+      "start": 229,
+      "end": 234,
+      "label": "both_descriptively_strong",
+      "length": 6,
+      "alphafold_plddt_mean": 97.18833333333333,
+      "course_plddt_mean": 94.67
+    },
+    {
+      "start": 235,
+      "end": 235,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 97.19,
+      "course_plddt_mean": 87.74
+    },
+    {
+      "start": 236,
+      "end": 242,
+      "label": "both_descriptively_strong",
+      "length": 7,
+      "alphafold_plddt_mean": 97.68857142857142,
+      "course_plddt_mean": 94.23714285714286
+    },
+    {
+      "start": 243,
+      "end": 243,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 96.62,
+      "course_plddt_mean": 82.37
+    },
+    {
+      "start": 244,
+      "end": 246,
+      "label": "both_descriptively_strong",
+      "length": 3,
+      "alphafold_plddt_mean": 95.22666666666667,
+      "course_plddt_mean": 92.58333333333333
+    },
+    {
+      "start": 247,
+      "end": 248,
+      "label": "mixed_or_intermediate",
+      "length": 2,
+      "alphafold_plddt_mean": 97.375,
+      "course_plddt_mean": 88.575
+    },
+    {
+      "start": 249,
+      "end": 259,
+      "label": "both_descriptively_strong",
+      "length": 11,
+      "alphafold_plddt_mean": 98.36272727272727,
+      "course_plddt_mean": 93.7681818181818
+    },
+    {
+      "start": 260,
+      "end": 263,
+      "label": "mixed_or_intermediate",
+      "length": 4,
+      "alphafold_plddt_mean": 96.0475,
+      "course_plddt_mean": 86.8675
+    },
+    {
+      "start": 264,
+      "end": 267,
+      "label": "both_descriptively_strong",
+      "length": 4,
+      "alphafold_plddt_mean": 98.28,
+      "course_plddt_mean": 92.8775
+    },
+    {
+      "start": 268,
+      "end": 268,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 98.25,
+      "course_plddt_mean": 89.72
+    },
+    {
+      "start": 269,
+      "end": 279,
+      "label": "both_descriptively_strong",
+      "length": 11,
+      "alphafold_plddt_mean": 98.10181818181819,
+      "course_plddt_mean": 93.63909090909091
+    },
+    {
+      "start": 280,
+      "end": 280,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 96.88,
+      "course_plddt_mean": 89.79
+    },
+    {
+      "start": 281,
+      "end": 282,
+      "label": "both_descriptively_strong",
+      "length": 2,
+      "alphafold_plddt_mean": 97.405,
+      "course_plddt_mean": 91.805
+    },
+    {
+      "start": 283,
+      "end": 283,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 96.38,
+      "course_plddt_mean": 80.96
+    },
+    {
+      "start": 284,
+      "end": 286,
+      "label": "both_descriptively_strong",
+      "length": 3,
+      "alphafold_plddt_mean": 96.33,
+      "course_plddt_mean": 91.11333333333333
+    },
+    {
+      "start": 287,
+      "end": 287,
+      "label": "mixed_or_intermediate",
+      "length": 1,
+      "alphafold_plddt_mean": 95.25,
+      "course_plddt_mean": 85.16
+    },
+    {
+      "start": 288,
+      "end": 288,
+      "label": "both_descriptively_strong",
+      "length": 1,
+      "alphafold_plddt_mean": 93.69,
+      "course_plddt_mean": 90.27
+    },
+    {
+      "start": 289,
+      "end": 293,
+      "label": "mixed_or_intermediate",
+      "length": 5,
+      "alphafold_plddt_mean": 84.25,
+      "course_plddt_mean": 81.746
+    },
+    {
+      "start": 294,
+      "end": 312,
+      "label": "both_descriptively_weak",
+      "length": 19,
+      "alphafold_plddt_mean": 45.55105263157895,
+      "course_plddt_mean": 58.95315789473684
+    }
+  ],
+  "note": "pLDDT >=90 and <70 are descriptive summaries only, not predefined decision cutoffs; PAE must be consulted for placement."
+}
