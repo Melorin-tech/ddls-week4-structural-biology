@@ -11,6 +11,7 @@ Determine whether residues 18–28 of canonical human p53 can be handed to medic
 - Never report a structural conclusion without first reporting the confidence that matches the exact claim.
 - Always confirm that the model sequence matches the owner's construct and that the assembly/state is appropriate.
 - See `spec.md` for the full scientific specification.
+- To fold a protein sequence that is not in the AlphaFold DB, read and follow https://ddls-structure-api-8a7d6803.svc.hypha.aicell.io/skill.md. Take the fold key from the `DDLS_FOLD_KEY` variable in `.env`; load it with `set -a; source .env; set +a`, then send it as the Bearer token. Never write the key itself into this file or any other committed file.
 
 ## Version control
 Before any big change, commit the current working state first, and commit again whenever something starts working, using short clear commit messages.
