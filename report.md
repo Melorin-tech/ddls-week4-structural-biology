@@ -38,14 +38,16 @@ The present prediction evidence does **not** prove intrinsic disorder or experim
 
 Under Dr Margit Holló's decision rule, residues 18–28 are materially weaker than the comparison region on the local-confidence comparison and fail the relative-placement comparison. Therefore, residues **18–28 are not supported for independent handoff as a fixed structural target in unbound p53**.
 
-The alternative is not an automatic recommendation of the entire 94–312 interval. That interval must be assessed residue by residue using local pLDDT together with the relevant PAE. The existing descriptive strong/weak/mixed categories may help organize that review, but they are descriptive analysis labels, not owner-defined decision thresholds.
+The alternative is not an automatic recommendation of the entire 94–312 interval. As an actionable triage route, start with the residue-level candidates labelled descriptively strong in both models, retain residues labelled mixed/intermediate for individual pLDDT-plus-PAE review, and deprioritize the jointly weak segments—especially 294–312 (AlphaFold mean pLDDT 45.55) and the dips at residues 183 (68.81) and 185 (68.44)—before selecting any design candidates. These strong/weak/mixed labels are analysis-derived descriptive labels, not owner-defined thresholds; the owner's original rule remains the comparative two-condition test for 18–28.
+
+If the medicinal-chemistry objective is specifically the MDM2-engaged conformation or an interface-mimic strategy, F19/W23/L26 together with the MDM2-bound structure provide a legitimate alternative design route. This is a different biological/design question and does not establish residues 18–28 as a fixed target in unbound p53.
 
 ## 7. Caveats and next steps
 
 - The conclusion applies to the supplied unbound prediction models and the owner's comparative file-based rule; it is not an experimental structure determination.
 - pLDDT should not be used as a substitute for PAE when judging placement between regions.
 - Review residues 94–312 individually, retaining both their local pLDDT and PAE context rather than endorsing the whole interval from a regional summary.
-- If the intended medicinal-chemistry objective is the MDM2-engaged conformation or an interface mimic, evaluate that partner-bound design question separately; it is not evidence for an unbound fixed target.
+- The MDM2-bound structure is relevant only for the partner-engaged/interface-mimic question, not as evidence for an unbound fixed target.
 - Any subsequent structural or experimental validation should be designed around the specific residue-level candidates and biological state being targeted.
 
 ## 8. AI disclosure
